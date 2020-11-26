@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LabTotal(3).iml" filepath="$PROJECT_DIR$/.idea/LabTotal(3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractInterface/abstractInterface.iml" filepath="$PROJECT_DIR$/abstractInterface/abstractInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myAbstractClass/myAbstractClass.iml" filepath="$PROJECT_DIR$/myAbstractClass/myAbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myPolimorfism/myPolimorfism.iml" filepath="$PROJECT_DIR$/myPolimorfism/myPolimorfism.iml" />
+    </modules>
+  </component>
+</project>
